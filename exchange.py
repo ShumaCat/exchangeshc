@@ -1,11 +1,3 @@
-#kolvo = input('Сколько ЛАРИ нужно перевести в АРГЕНТИНСКИЕ ПЕССО: ')
-
-#lari = int(kolvo)
-
-#pesso = lari * 56.11
-
-#print(lari, "лари это", pesso, "пессо")
-
 import time
 
 print("Обменник валюты")
